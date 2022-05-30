@@ -1,0 +1,13 @@
+{
+    "name": "appbase-service",
+    "environment": [
+        "API_GATEWAY_SERVER",
+        "API_GATEWAY_HOST",
+        "API_GATEWAY_KEY",
+        "SERVICE_ID",
+        "TEST_VALUE"
+    ],
+    "routing_table": [
+        
+    ]
+}
